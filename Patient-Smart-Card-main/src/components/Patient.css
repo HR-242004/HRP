@@ -1,0 +1,16 @@
+.container{
+  width: 100%;
+  height: 90vh;
+  background-image: url("https://firearmrights.ca/wp-content/uploads/2019/02/1457378853878.jpg");
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  /* margin-top: 0 ; */
+}
+form {
+  background-color: aliceblue;
+  width: 40%;
+  height: 60%;
+}
